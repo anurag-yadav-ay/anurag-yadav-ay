@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Anurag+Yadav;I'm+FullStack+Developer;I'm+Graphic+Designer;I'm+@+thelone.boy"></p>
 <h3 align="center">Designer Head at GeeksforGeeks-UIT | CSE Core Pre-Final Year, Batch of 2022-2026, AKTU  </h3>
 
-<img align="right" alt="coding" width="500" src="./src/codingImage.jpg">
+<img align="right" alt="coding" width="500" src="https://github.com/anurag-yadav-ay/anurag-yadav-ay/blob/main/codingImage.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anurag Yadav-069&label=Profile%20views&color=0e75b6&style=flat" alt="Anurag-Yadav-069" width="150"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-yadav-ay&label=Profile%20views&color=0e75b6&style=flat" alt="Anurag-Yadav-069" width="150"/> </p>
 
 -  Contributor at GDSC OF UIT, 2024 Extended!
 
@@ -40,9 +40,9 @@ const Anurag Yadav= {
 <!-- START_SECTION:blog -->
 | Qualification | Studied At | Institute | Affiliated By | Year of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: | :--: |
-| B.Tech CSE | <img src="https://github.com/anurag-yadav-ay/Anurag Yadav/blob/main/src/united-logo.jpeg" width="40" height="35"> | United Institute of Technology Prayagraj | AKTU | Nov 2022-Present | 7 CGPA |
-| Intermediate | <img src="https://github.com/anurag-yadav-ay/Anurag Yadav/blob/main/src/LogoBig.png" width="40" height="35"> | SMT D Singh S.S.V.M.I.C Naini Prayagraj | UP Board | 2022 | 75.5 % |
-| HighSchool | <img src="https://github.com/anurag-yadav-ay/Anurag Yadav/blob/main/src/LogoBig.png" width="40" height="35"> | S.B.P Singh Balika High School Naini Prayagraj | UP Board | 2020 | 85 % |
+| B.Tech CSE | <img src="https://github.com/anurag-yadav-ay/anurag-yadav-ay/blob/main/united-logo.jpeg" width="40" height="35"> | United Institute of Technology Prayagraj | AKTU | Nov 2022-Present | 7 CGPA |
+| Intermediate | <img src="https://github.com/anurag-yadav-ay/anurag-yadav-ay/blob/main/LogoBig.png" width="40" height="35"> | SMT D Singh S.S.V.M.I.C Naini Prayagraj | UP Board | 2022 | 75.5 % |
+| HighSchool | <img src="https://github.com/anurag-yadav-ay/anurag-yadav-ay/blob/main/LogoBig.png" width="40" height="35"> | S.B.P Singh Balika High School Naini Prayagraj | UP Board | 2020 | 85 % |
 <!-- END_SECTION:blog -->
 </td>
 </tr>
